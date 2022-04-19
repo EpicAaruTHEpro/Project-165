@@ -1,0 +1,11 @@
+Model Information:
+* title:	Thanos Rig - blender 2.79
+* source:	https://sketchfab.com/3d-models/thanos-rig-blender-279-3a346d10120f41a6ba2f65e0771b7b51
+* author:	Darth_Ir0n (https://sketchfab.com/DarthIron)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Thanos Rig - blender 2.79" (https://sketchfab.com/3d-models/thanos-rig-blender-279-3a346d10120f41a6ba2f65e0771b7b51) by Darth_Ir0n (https://sketchfab.com/DarthIron) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
